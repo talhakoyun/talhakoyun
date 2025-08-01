@@ -45,11 +45,3 @@
 <br clear="both">
 
 <img src="snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/talhakoyun/count.svg?"  />
-</div>
-
-###
